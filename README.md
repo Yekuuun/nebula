@@ -16,7 +16,6 @@ Nebulla is a base lib developped to apply various techniques for PE manipulation
 
 >[!Important]
 >This repos contains samples I wroted. It may not be perfect so don't blame me if you see potentials errors.
->Test are made on a x64 messageBoxA program sample.
 
 ## You'll find : 
 
@@ -46,6 +45,9 @@ Nebulla is a base lib developped to apply various techniques for PE manipulation
 **Add new section**
 
 <img src="https://github.com/Yekuuun/nebula/blob/main/assets/addSection.png" alt="DebugInfo" />
+
+> [!Note]
+>Test are made on a simple C x64 bit program displaying a message box using MessageBoxA
 
 ---
 
