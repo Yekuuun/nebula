@@ -42,6 +42,10 @@ Nebulla is a base lib developped to apply various techniques for PE manipulation
 
 <img src="https://github.com/Yekuuun/nebula/blob/main/assets/dump.png" alt="DebugInfo" />
 
+**Add new section**
+
+<img src="https://github.com/Yekuuun/nebula/blob/main/assets/addSection.png" alt="DebugInfo" />
+
 ---
 
 ### Thanks to : 
