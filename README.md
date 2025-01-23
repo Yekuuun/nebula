@@ -21,6 +21,8 @@ Nebulla is a base lib developped to apply various techniques for PE manipulation
 
 🟢 **PE loader** : Load PE into memory & execute it.
 
+🟢 **PE mapper** : Manually map PE into memory (local process virtual memory).
+
 🟢 **Section DUMP** : DUMP PE section to view it.
 
 🟢 **Add section** : Add a new section to dedicated PE file.
